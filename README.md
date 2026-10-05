@@ -19,9 +19,9 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 4. View results in range H3:K16; compare savings, time, and other present information with a base result to select a station
 5. Use the provided hyperlink for immediate Google Maps directions to chosen station from input address
 
-&nbsp;&nbsp;_For greater precision:_
-  &nbsp;&nbsp;- In D6, specify a town to only receive stations from that specific town
-  &nbsp;&nbsp;- In B11:F13, use checkboxes to alter the base station if another option is preferred
+_For greater precision:_
+  - In D6, specify a town to only receive stations from that specific town
+  - In B11:F13, use checkboxes to alter the base station if another option is preferred
 
 Courtesy of [Amit Agarwal](https://www.labnol.org/about), Google Maps API access is available for a limited number of requests per Google account per day.  This tool can support ~5-10 calls per day at current efficiency.
 
