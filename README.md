@@ -11,7 +11,7 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 - Cost savings/losses and time gained/lost vs top station displayed to user, allowing for an informed decision
 - Hyperlink provided for instant Google Maps directions from current location to selected station
 
-[alt_text](assets/gas-station-optimizer_loading1.png)
+![alt_text](assets/gas-station-optimizer_loading1.png)
 
 Demo: the screenshot or GIF, near the top.
 How it works: a short paragraph, or 3 to 5 bullets covering the data source, the API call, and how stations are ranked.
