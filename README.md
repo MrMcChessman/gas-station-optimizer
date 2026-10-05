@@ -13,4 +13,10 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 
 
 
+Demo: the screenshot or GIF, near the top.
+How it works: a short paragraph, or 3 to 5 bullets covering the data source, the API call, and how stations are ranked.
+How to use or run: for Snake, python snake.py with WASD plus Enter. For the sheet, the make-a-copy link and where to enter the API key.
+Design decisions: this is where the v1 to v2 redesign goes (the $/hr input replaced with a transparent time-vs-savings display). Two or three sentences on what you changed and why.
+Limitations and next steps: for Snake, "turn-based input; real-time loop planned." For the sheet, anything that breaks, like the source site changing its table layout.
+
 
