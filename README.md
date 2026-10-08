@@ -7,11 +7,11 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 
 **Functionality:**
 ---
-_outside sources:_
+_Outside sources:_
 - Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
 - Apps Script Google Maps functions courtesy of [Amit Agarwal](https://www.labnol.org/about) and his personal work on [Labnol.org](https://www.labnol.org/google-maps-sheets-200817)
 
-_data pipeline, ranking logic, comparison display, base-station checkboxes:_
+_Data pipeline, ranking logic, comparison display, base-station checkboxes:_
 - Top station selected based on proximity to user, remainder of stations ordered based on gas price
 - Cost savings/losses and time gained/lost vs top station displayed to user, allowing for an informed decision
 - Hyperlink provided for instant Google Maps directions from current location to selected station
