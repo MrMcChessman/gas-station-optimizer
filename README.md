@@ -28,4 +28,4 @@ _For greater precision:_
   - In D6, specify a town to only receive stations from that specific town
   - In B11:F13, use checkboxes to alter the base station if another option is preferred
 ___
-Courtesy of [Amit Agarwal](https://www.labnol.org/about), Google Maps API access is available for a limited number of requests per Google account per day.  This tool can support ~5-10 calls per day at current efficiency.
+Google Maps function access courtesy of [Amit Agarwal](https://www.labnol.org/about) available for a limited number of requests per Google account per day.  This tool can support ~5-10 calls per day at current efficiency.
