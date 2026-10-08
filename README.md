@@ -25,7 +25,7 @@ _Data pipeline, ranking logic, comparison display, base-station checkboxes:_
 5. Use the provided hyperlink for immediate Google Maps directions to chosen station from input address
 
 _For greater precision:_
-  - In D6, specify a town to only receive stations from that specific town
-  - In B11:F13, use checkboxes to alter the base station if another option is preferred
+  - In D6, specify a single town to receive data from
+  - In B11:F13, use checkboxes to alter the baseline station as desired
 ___
 Google Maps function access courtesy of [Amit Agarwal](https://www.labnol.org/about) available for a limited number of requests per Google account per day.  This tool can support ~5-10 calls per day at current efficiency.
