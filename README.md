@@ -5,7 +5,7 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 
 ![Screenshot of Tool Output](assets/gas-station-optimizer_Colored_values.png)
 
-**How it works:**
+**Functionality:**
 ---
 _outside sources:_
 - Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
