@@ -24,7 +24,6 @@ _For greater precision:_
   - In D6, specify a single town to receive data from
   - In B11:F13, use checkboxes to alter the baseline station as desired
 ___
-_Outside sources:_
-Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
-
 Google Maps function access courtesy of [Amit Agarwal](https://www.labnol.org/about) available for a limited number of requests per Google account per day.  This tool can support ~5-10 calls per day at current efficiency.
+
+Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
