@@ -7,10 +7,6 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 
 **Functionality:**
 ---
-_Outside sources:_
-- Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
-- Apps Script Google Maps functions courtesy of [Amit Agarwal](https://www.labnol.org/about) and his personal work on [Labnol.org](https://www.labnol.org/google-maps-sheets-200817)
-
 _Data pipeline, ranking logic, comparison display, base-station checkboxes:_
 - Top station selected based on proximity to user, remainder of stations ordered based on gas price
 - Cost savings/losses and time gained/lost vs top station displayed to user, allowing for an informed decision
@@ -28,4 +24,7 @@ _For greater precision:_
   - In D6, specify a single town to receive data from
   - In B11:F13, use checkboxes to alter the baseline station as desired
 ___
+_Outside sources:_
+Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
+
 Google Maps function access courtesy of [Amit Agarwal](https://www.labnol.org/about) available for a limited number of requests per Google account per day.  This tool can support ~5-10 calls per day at current efficiency.
