@@ -26,4 +26,4 @@ _For greater precision:_
 ___
 Google Maps function access courtesy of [Amit Agarwal](https://www.labnol.org/about) available for a limited number of requests per Google account per day.  This tool can support ~5-10 calls per day at current efficiency.
 
-Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
+Station data sourced from [sitelocator.wexonline.com](https://www.sitelocator.wexonline.com)
