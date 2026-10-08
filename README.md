@@ -3,7 +3,7 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 
 [Open a copy on Google Sheets](https://docs.google.com/spreadsheets/d/1QfGbEa5is4c-rPP0q9vdIrZ4piXZ24dqMHKO9edFhso/copy)
 
-![Screenshot of Tool Output](assets/gas-station-optimizer_RPIAddressCOMPLETE.png)
+![Screenshot of Tool Output](assets/gas-station-optimizer_Colored_values.png)
 
 **How it works:**
 _outside sources_
