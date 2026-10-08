@@ -6,7 +6,8 @@ Gathers daily-updating gas station pricing info around a specified address, and 
 ![Screenshot of Tool Output](assets/gas-station-optimizer_Colored_values.png)
 
 **How it works:**
----_outside sources_
+---
+_outside sources_
 - Station data sourced from [sitelocator.wexonline.com](sitelocator.wexonline.com)
 - Apps Script Google Maps functions courtesy of [Amit Agarwal](https://www.labnol.org/about) and his personal work on [Labnol.org](https://www.labnol.org/google-maps-sheets-200817)
 
